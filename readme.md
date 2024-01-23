@@ -4,3 +4,17 @@ Create a streamlined Go Gin project instantly with our Quickstart template. Feat
 
 ## How it works
 Just clone this project and start coding in a minute
+
+Install the dependencies
+<br />
+```bash
+go mod tidy
+```
+
+## Run the project
+Go-gin uses  air to run and automatically reloads after any changes
+
+For more info visit [Air](https://github.com/cosmtrek/air)
+```bash
+air
+```
